@@ -4,6 +4,7 @@ package ch.heigvd.res.stpatrick;
 /**
  * 
  * @author Olivier Liechti
+ * @author Rafidimalala
  */
 public class Application {
 
